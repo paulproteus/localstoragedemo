@@ -13,4 +13,12 @@ Rationale: https://groups.google.com/forum/#!topic/sandstorm-dev/yxx6invce2w
 
 ## License
 
-Apache License 2.0. Contents of this repo are (C) Sandstorm Development Group, Inc.
+This README is Apache License 2.0.
+
+Contents of this repo are (C) Sandstorm Development Group, Inc.
+
+index.html is copied from
+http://people.w3.org/mike/localstorage.html , apologies to Mike; if you
+want this removed, let me know.
+
+
